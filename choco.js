@@ -156,10 +156,10 @@ module.exports = async(sock, msg, m) => {
 					if (stdout) reply(`${stdout}`)
 				    })
                 }
-        } else {
-        	reply(mess.owner)
         }
-        
+ 
+
+
         }
             } catch (e) {
                console.log(color(e, 'red'))
