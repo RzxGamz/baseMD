@@ -22,7 +22,7 @@ const startSock = () => {
         console.log(JSON.stringify(m, undefined, 2))
         
         const msg = m.messages[0]
-        require('./choco.js')(sock, msg, m)
+        require('./sock.js')(sock, msg, m)
     })
 
     sock.ev.on('messages.update', m => console.log(m))
