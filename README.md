@@ -1,5 +1,10 @@
 # Base Bot Multi Device
 ```Note : Script ini hanya berisi mentahan base multi device```
+- Tidak ada fitur di dalam base (hanya eval)
+- Menggunakan baileys multi device
+- Fiturnya kalian buat sendiri :v
+- Cocok untuk pemula
+- Bisa untuk belajar membuat fitur sendiri
 # Penginstalan untuk termux
 - pkg update && pkg upgrade
 - pkg install nodejs
