@@ -1,3 +1,5 @@
+# Deploy To Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RzxGamz/baseMD)
 # Base Bot Multi Device
 ```Note : Script ini hanya berisi mentahan base multi device```
 - Tidak ada fitur di dalam base (hanya eval)
